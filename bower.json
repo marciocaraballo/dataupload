@@ -1,0 +1,32 @@
+{
+  "name": "fileupload",
+  "version": "0.0.1",
+  "description": "A file upload test to a nodejs server with mongodb",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "file",
+    "upload"
+  ],
+  "dependencies": {
+    "jquery": "~1.10.2",
+    "bootstrap" : "~3.3.1",
+    "fileupload" : "https://github.com/blueimp/jQuery-File-Upload.git",
+    "filedownload" : "https://github.com/johnculviner/jquery.fileDownload.git",
+    "handlebars" : "https://github.com/wycats/handlebars.js.git"
+  },
+  "authors": [
+    "Marcio Caraballo"
+  ],
+  "license": "Free",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

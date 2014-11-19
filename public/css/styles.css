@@ -1,0 +1,43 @@
+.refresh-button {
+	float: right;
+}
+
+.app-container {
+	width: 70%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.input-group {
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+.refresh-button {
+	cursor : pointer;
+	position: relative;
+	bottom: 35px;
+	right: 10px;
+}
+
+.table {
+	text-align: left;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.glyphicon {
+	cursor: pointer;
+}
+
+.success,
+.no-file-name {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.send-button {
+	margin-bottom: 20px;
+}

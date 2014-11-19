@@ -1,0 +1,24 @@
+{
+  "name": "fileupload",
+  "version": "0.0.1",
+  "description": "A file upload application test with nodejs backend and mongodb for storage",
+  "main": "server.js",
+  "dependencies": {
+    "mongoose": "^3.8.19",
+    "bower": "^1.3.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "mongoose",
+    "file",
+    "upload"
+  ],
+  "author": "Marcio Caraballo",
+  "license": "Free"
+}
